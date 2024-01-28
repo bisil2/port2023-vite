@@ -33,7 +33,7 @@
     -webkit-text-size-adjust: 100%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 800px) { /* 800px 이하로 갈 시 폰트 작아짐 */
     :root {
         font-size: 14px;
         line-height: 1.4;
